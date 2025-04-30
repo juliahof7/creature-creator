@@ -1,0 +1,11 @@
+# requirements.txt
+
+# This project uses only Python Standard Library modules.
+# No external packages need to be installed.
+
+# Python Version
+python>=3.8
+
+# Make sure tkinter is installed if running on a minimal Python installation
+tkinter
+# If you are using a virtual environment, you may need to install tkinter separately.
