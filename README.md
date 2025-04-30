@@ -15,16 +15,16 @@ The **Creature Creator** is a Python-based application that allows users to gene
 
 #  File Structure
 
-main.py – main driver file (the app starts here).
-creature.py – creature class logic (hybrid name, stats, etc.)
-graphics.py – this is for showing the creature confirmation graphic using tkinter.
-requirements.txt – if you use external libraries like Pillow, add them here for easy setup.
-README.md –  explains the project.
-assets/ – (folder) for any images or graphics.
+- main.py – main driver file (the app starts here).
+- creature.py – creature class logic (hybrid name, stats, etc.)
+- graphics.py – this is for showing the creature confirmation graphic using tkinter.
+- requirements.txt – if you use external libraries like Pillow, add them here for easy setup.
+- README.md –  explains the project.
+- assets/ – (folder) for any images or graphics.
 
 ---
 
-##  Techn Used
+##  Technology Used
 
 - **Python 3**
 - `tkinter` for GUI
@@ -42,8 +42,7 @@ Name: Unigon
 Weight: 1234 lbs 
 Diet: berries
 
----
-A GUI window pops up confirming the creation of "Unigon" with some emojis.
+- A GUI window pops up confirming the creation of "Unigon" with some emojis.
 ---
 
 ##  How to Run
