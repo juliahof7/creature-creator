@@ -2,6 +2,8 @@
 
 This **Creature Creator** project was created for my SWDV 220 Course. It consists of a Python-based application that allows users to generate a new hybrid creature by combining any two creatures of their choice. The result is a randomly named creature with stats and a graphical confirmation.
 
+GitHub Link: https://github.com/juliahof7/creature-creator 
+
 ---
 
 #  How It Works
